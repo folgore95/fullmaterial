@@ -1,5 +1,5 @@
 # Full Material
-<img src="https://github.com/folgore95/fullmaterial/blob/master/welcome.png"/>
+<img src="https://github.com/folgore95/media/blob/master/fullmaterial.png"/>
 
 ## Download
 If you are on Linux, simply copy and paste this code on the terminal.
