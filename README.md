@@ -1,4 +1,5 @@
 # Full Material
+[![GitHub license](https://img.shields.io/github/license/mashape/apistatus.svg)](https://github.com/folgore95/fullmaterial/blob/master/LICENSE)
 <img src="https://github.com/folgore95/media/blob/master/fullmaterial.png"/>
 
 ## Download
