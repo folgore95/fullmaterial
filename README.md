@@ -1,11 +1,24 @@
-# Full Material [![GitHub license](https://img.shields.io/github/license/mashape/apistatus.svg)](https://github.com/folgore95/fullmaterial/blob/master/LICENSE)
-<img src="https://github.com/folgore95/media/blob/master/fullmaterial.png"/>
-
+# C++ | Esercizi Ingegneria informatica
 ## Download
-If you are on Linux, simply copy and paste this code on the terminal.
+Da terminale dare questo comando per installare GCC C++ (testato su distro Mint)
 
 ```bash
-git clone https://github.com/folgore95/fullmaterial.git
+sudo apt-get install g++
 ```
+## Compilare il codice
+Una volta creato il file esempio.cpp aprire il percorso dove si trova usando questo comando:
 
-If you are on Windows/Mac click <a href="https://github.com/folgore95/fullmaterial/archive/master.zip">here.</a>
+```bash
+cd path
+```
+Successivamente dare questo comando:
+
+```bash
+g++ -o esempio esempio.cpp
+```
+## Eseguire il codice
+Se il codice si compila dare questo comando per eseguirlo::
+
+```bash
+./esempio
+```
